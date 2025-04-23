@@ -4,6 +4,7 @@
 </h1>
 
 > *BetterDiscord plugin* — Leave multiple servers at once, with server icons, names.
+> THIS PLUGIN IS NOT RECOMMENDED, BY USING THIS PLUGIN, YOU ASSUME FULL RESPONSIBILITY FOR ANY POTENTIAL DATA LOSS, OR BAN.
 
 ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
